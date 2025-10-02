@@ -58,7 +58,7 @@ Retail-Sales-Analytics-with-Data-Analytics/
 ├── dashboard/
 │ └── RetailSalesDashboard.pbix
 │
-├── README.md ← (ini file ini)
+├── README.md
 └── assets/
 └── screenshot-overview.png
 └── screenshot-orders.png
