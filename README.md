@@ -51,7 +51,7 @@ Dokumentasi ini menjelaskan tiga halaman utama di dashboard Power BI yang dibuat
 - Identifikasi region dengan performa tinggi serta kategori favorit pembeli.
 
 ---
-
+```
 ##  Struktur File di Repository
 Retail-Sales-Analytics-with-Data-Analytics/
 │
@@ -63,6 +63,7 @@ Retail-Sales-Analytics-with-Data-Analytics/
 └── screenshot-overview.png
 └── screenshot-orders.png
 └── screenshot-customers.png
+```
 ---
 
 ##  Cara Export ke PDF
